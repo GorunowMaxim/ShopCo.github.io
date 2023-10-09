@@ -1,0 +1,1 @@
+!function(){const e=document.querySelector(".video");document.querySelector(".hero-slide-video").classList.contains("swiper-slide-active")&&e.play()}();
