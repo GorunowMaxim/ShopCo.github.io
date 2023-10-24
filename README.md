@@ -11,17 +11,17 @@
     Page landing with author's design.
     <br />
     <br />
-    <a href="https://github.com/GorunowMaxim/LearnEnglish.github.io"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/GorunowMaxim/ShopCo.github.io"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://gorunowmaxim.github.io/LearnEnglish.github.io/">View Demo</a>
+    <a href="https://gorunowmaxim.github.io/ShopCo.github.io/">View Demo</a>
   </p>
 </div>
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 <br />
 
-<video width="630" height="300"  src="https://github.com/GorunowMaxim/LearnEnglish.github.io/assets/132397409/ebce30b3-f96d-4c6c-8186-a36c741ead8e" autoplay></video>
+<video width="630" height="300"  src="https://github.com/GorunowMaxim/ShopCo.github.io/assets/132397409/ddb96fbb-08b5-4b55-8c31-80b6a340bc2e" autoplay></video>
 
 <br />
 <br />
